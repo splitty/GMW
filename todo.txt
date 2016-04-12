@@ -1,0 +1,4 @@
+1- Make pref. load through JAXB to make users experience easier.
+2- Allow for changes to jSoup parsing with user interface (resolution, file type, tag hierarchy. 
+3- Add bandwidth control/limiter for people who don't want to mass flood their connections with media.
+4- Get more anime wallpapers.
