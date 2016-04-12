@@ -1,6 +1,6 @@
 # GrabMyWaifu
 ## If you want the binary installer for Windows, the link is here [Splitmane.com](http://splitmane.com) under the downloads section.
-GrabMyWaifu is a simple application that allows for the mass downloading of media by thread on 4Chan.  It currently is set-up to download all of the media of a single thread into a created folder in the name of that thread.  The backbone of this application is JavaFX with the parsing done by jSoup.  Currently, the only availible native installer is for Windows.  
+GrabMyWaifu is a simple application that allows for the mass downloading of media by thread on 4Chan.  It currently is set-up to download all of the media of a single thread into a created folder in the name of that thread.  The backbone of this application is JavaFX with the parsing done by jSoup.  Currently, the only available native installer is for Windows.  
 
 ### What it does-
 
@@ -28,4 +28,8 @@ GrabMyWaifu is a simple application that allows for the mass downloading of medi
 ### How-
  * GMW uses jSoup to parse tags of a given url, that page is then searched for particular tags, then the tags are taken into account, the media link is extracted, and the media downloaded.  jSoup has the potential to specify any set of tags, and therefore will (in theory) work on almost every website that hosts images.  The tricky part is getting the tags correct when it comes to downloading full sized images and not the directly linked thumbnails.
   
-
+### In Use
+![Main Screen](http://i.imgur.com/24s4ZUP.png)
+![Selection Done](http://i.imgur.com/1e6DGQV.png)
+![In Action](http://i.imgur.com/qDPWY6Q.png)
+![Done](http://i.imgur.com/Wn0Ee9V.png)
